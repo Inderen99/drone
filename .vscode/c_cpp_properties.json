@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/PlatformIO/Projects/Fagprojekt Drone/include",
-                "C:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/PlatformIO/Projects/Fagprojekt Drone/src",
+                "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/include",
+                "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/src",
                 "C:/Users/silas/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                 "C:/Users/silas/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                 "C:/Users/silas/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
@@ -115,8 +115,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/PlatformIO/Projects/Fagprojekt Drone/include",
-                    "C:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/PlatformIO/Projects/Fagprojekt Drone/src",
+                    "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/include",
+                    "c:/Users/silas/OneDrive - Danmarks Tekniske Universitet/Dokumenter/GitHub/drone/src",
                     "C:/Users/silas/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                     "C:/Users/silas/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                     "C:/Users/silas/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
