@@ -1,0 +1,55 @@
+Notes:
+
+PWM:
+- When we want to change the frequency for the pwm signals, look at the following page: https://www.pjrc.com/teensy/td_pulse.html
+- Pay attention 
+
+
+MCU:
+- Current consumption ok - but is it a problem that it receives a "constant" current supply of 500mA
+- Clock is not constant (maybe a cooling plade)
+- Should we use FSYNC?? As I understand, it makes it possible to gather data at the end of clock cycles
+instead of the MCU keeps asking for data and only gets a bit at a time
+- Add LED 
+- Add measure wires
+
+
+Communication:
+- SBUS on UART pin
+- Pay attention to the invertion of SBUS signal comparet to the UART 
+
+Debug pins:
+- Remember these!
+
+Blinking Led:
+- To see that MCU is alive:))
+
+Software:
+- Interrupts
+
+Circuit overview:
+- https://www.godrone.dk/esc-electronic-speed-control/
+
+MPU6881:
+- https://3cfeqx1hf82y3xcoull08ihx-wpengine.netdna-ssl.com/developers/wp-content/uploads/sites/2/2020/09/AN-MPU-x000A-01-PCB-Design-Guidelines-v1.1.pdf
+- In document above it says what to do about the exposed pad (don't solder)
+
+SPI design:
+- https://www.pjrc.com/better-spi-bus-design-in-3-steps/
+- Nødvendigt med Tri state buffer (ingen mulighed for test)???
+- Magnetometer og IMU kan køre på samme SPI linje - 1 MHZ
+
+Buzzer design: 
+- Is there something we must be careful about?
+
+Magnetometer: 
+- Find another one 
+
+GPS:
+- Keep antenna away from circuitry
+- Omslut RF banen med ground
+
+RC modtager:
+- Stik til RC modtager
+- Uart på MCU
+
