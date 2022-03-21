@@ -3510,7 +3510,7 @@
     (property "Reference" "R?" (id 0) (at 49.53 102.87 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5.6k" (id 1) (at 50.8 107.315 90)
+    (property "Value" "560" (id 1) (at 50.8 107.315 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 49.022 105.41 90)
@@ -4476,7 +4476,7 @@
       (reference "R?") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/8405f1d0-5223-43ca-a0a0-545311a2ff9b"
-      (reference "R?") (unit 1) (value "5.6k") (footprint "")
+      (reference "R?") (unit 1) (value "560") (footprint "")
     )
     (path "/8e74bd62-30fd-4dc6-a6e9-8583d6626b7d"
       (reference "R?") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
